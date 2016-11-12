@@ -13,9 +13,9 @@ Note:
    for below 3 properties:
    <pre>
    <code>
-       <color name="bg">#ffffffff</color>
-       <color name="appbackground">#ffffffff</color>
-       <color name="app_shortcut_background">#ffffffff</color>
+       &lt;color name="bg"&gt;#ffffffff&lt;/color&gt;
+       &lt;color name="appbackground"&gt;#ffffffff&lt;/color&gt;
+       &lt;color name="app_shortcut_background"&gt;#ffffffff&lt;/color&gt;
    </code>
    <pre>
 
