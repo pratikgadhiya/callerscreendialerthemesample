@@ -3,6 +3,10 @@
 
     <string name="app_name">CSD Heart Theme</string>
 
+    <!-- used only for this app -->
+    <string name="heart_theme">Caller Screen Dialer Heart Theme</string>
+
+
     <!-- This name will Be Displayed as your theme name In Caller Screen Dialer App -->
     <string name="display_name">Heart Theme</string>
 

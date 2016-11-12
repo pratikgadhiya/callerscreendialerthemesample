@@ -14,7 +14,7 @@
 
     <!--// For whole app -->
     <color name="bg">#ffffffff</color>
-    <color name="appbackgroung">#ffffffff</color> <!-- if you don't set background image with this name then this color will be use as background -->
+    <color name="appbackground">#ffffffff</color> <!-- if you don't set background image with this name then this color will be use as background -->
     <color name="intro_color">#40b8e0</color> <!-- this color will show in introduction text -->
 
     <!-- // All Contact Page  -->
@@ -36,7 +36,7 @@
     <color name="fav_name_text_color">#000000</color> <!-- Favourite number Color -->
 
     <!-- // app shortcut popup = // Favourite contact and call log page long press screen-->
-    <color name="app_shortcut_backgroung">#80000000</color> <!-- if image not set with this name then this color will be use as background -->
+    <color name="app_shortcut_background">#80000000</color> <!-- if image not set with this name then this color will be use as background -->
     <color name="name_number_popup_color">#FF0000</color> <!-- name and number text color -->
 
     <!-- //Contacts Detail page -->
@@ -57,7 +57,7 @@
     <color name="hint_color_setting">#ff666666</color> <!-- setting's all option hint color -->
     <color name="option_color">#353535</color> <!-- option title color -->
     <color name="title_color">#FF0000</color> <!-- setting title text color -->
-    <color name="option_heading">#FFC0CB</color> <!-- option title background color -->
+    <color name="option_heading">#CCefefef</color> <!-- option title background color -->
 
     <!-- //Childlock page -->
     <color name="childlock_text_color">#000000</color> <!-- childlock title text color -->
