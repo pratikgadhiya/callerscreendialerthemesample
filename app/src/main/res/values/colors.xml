@@ -13,6 +13,7 @@
     <color name="IndianRed">#ff000000</color>
 
     <!--// For whole app -->
+    <color name="bg">#ffffffff</color>
     <color name="appbackgroung">#ffffffff</color> <!-- if you don't set background image with this name then this color will be use as background -->
     <color name="intro_color">#40b8e0</color> <!-- this color will show in introduction text -->
 
