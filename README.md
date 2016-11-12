@@ -17,7 +17,7 @@ Note:
        &lt;color name="appbackground"&gt;#ffffffff&lt;/color&gt;
        &lt;color name="app_shortcut_background"&gt;#ffffffff&lt;/color&gt;
    </code>
-   <pre>
+   </pre>
 
    Let say
    if you have "appbackground" named image in drawable then that image will be used as background.
