@@ -37,7 +37,7 @@
 
     <!-- // app shortcut popup = // Favourite contact and call log page long press screen-->
     <color name="app_shortcut_background">#80000000</color> <!-- if image not set with this name then this color will be use as background -->
-    <color name="name_number_popup_color">#FF0000</color> <!-- name and number text color -->
+    <color name="name_number_popup_color">#ffffffff</color> <!-- name and number text color -->
 
     <!-- //Contacts Detail page -->
     <color name="collaps_toolbar_background">#f0f5fb</color> <!-- Image/textImage Background color -->
