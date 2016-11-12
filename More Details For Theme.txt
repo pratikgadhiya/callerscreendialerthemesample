@@ -1,0 +1,194 @@
+Replace Drawable with name according instructions and that images will display when your theme is applied. 
+	   	   
+--------------------- Common Images -------------------
+
+favourite page icon = favorites
+favourite page icon hover = favorites_s
+
+Recent page icon = recentcalls
+Recent page icon hover = recentscallshover
+
+Contacts page icon = contacts
+Contacts page icon hover = contacts_s
+
+Dialpad page icon = keypad
+Dialpad page icon hover = keypad_s
+
+Setting page icon = voicemailsettings 
+Setting page icon hover =  voicemail_s
+		   
+-------------- For Dialpad Page -----------------
+
+button 0 = d_0
+button 0 hover = d_0_s
+
+button 1 = d_1
+button 1 hover = d_1_s
+
+button 2 = d_2
+button 2 hover = d_2_s
+         
+button 3 = d_3
+button 3 hover = d_3_s
+         
+button 4 = d_4
+button 4 hover = d_4_s
+         
+button 5 = d_5
+button 5 hover = d_5_s
+         
+button 6 = d_6
+button 6 hover = d_6_s
+         
+button 7 = d_7
+button 7 hover = d_7_s
+         
+button 8 = d_8
+button 8 hover = d_8_s
+         
+button 9 = d_9
+button 9 hover = d_9_s
+
+clear button = d_clear
+clear button hover = d_clear_s
+
+call button = d_call
+call button hover = d_call_s
+
+add contact button = d_add
+
+whatsapp msg icon = whatsapp_speeddial
+whatsapp call icon = whatsapp_call_icon
+default sms icon = msg_speeddial
+viber icon = viber_icon_png
+skype icon = skype_icon_png
+hike icon = hike_speeddial
+
+background for this page = bg //if you don't replace this then you have to change color with same name in colors.xml
+
+------------------------ Contacts page ------------------------
+
+add new contact icon = addcontact
+
+background for this page = appbackground //if you don't replace this then you have to change color with same name in colors.xml
+
+Search box image = search_box // This is xml file in sample project but you can replace this xml with your image for search box or create your own xml
+
+------------------------ Call Log Page ------------------------
+
+border for 'all-missed' call tab = button_all_misscall_border // This is xml file in sample project but you can replace this xml with your image for all-missed call tab border or create your own xml
+
+'all' tab image = button_all // This is xml file in sample project but you can replace this xml with your image for 'all' tab border or create your own xml
+'all' tab hover image = button_all_hover // This is xml file in sample project but you can replace this xml with your image for 'all' hover tab border or create your own xml
+
+'missed call' tab image = button_misscall // This is xml file in sample project but you can replace this xml with your image for 'missed call' tab border or create your own xml
+'missed call' tab hover image = button_misscall_hover // This is xml file in sample project but you can replace this xml with your image for 'missed call' hover tab border or create your own xml
+
+Call log information icon = contactdetailicon
+
+Background for this page = appbackground //if you don't replace this then you have to change color with same name in colors.xml
+
+missed call icon = callend
+incoming call icon = callincomingicon
+outgoing call icon = callicon
+
+--------------------- Favourite Contacts page ----------------
+
+ add to Favourite icon = addcontact //same used in add contacts
+ 
+Favourite contact information icon  = contactdetailicon //same used in call log page
+if Contact's image is not available then used image is this = unknownnumber
+
+Background for this page = appbackground //if you don't replace this then you have to change color with same name in colors.xml
+
+
+------------------ Favourite contacts and call log page long press screen OR App shortcut popup -------------------------
+
+background for popup = app_shortcut_backgroung //if you don't replace this then you have to change color with same name in colors.xml
+
+------------------ Contact Details page --------------------------
+
+ call icon = call_icon
+ default msg icon = messege
+ whatsapp msg icon small size = whatsapp_msg_small // this is different size icon then used in Dialpad icon
+ 
+ skype icon  =skype_small // this is different size icon then used in Dialpad icon
+ whatsapp call icon  =whatsapp_call_small // this is different size icon then used in Dialpad icon
+ viber icon  =viber_small_icon // this is different size icon then used in Dialpad icon
+ hike icon = hike_small // this is different size icon then used in Dialpad icon
+ 
+ back arrow image = arrowback
+ 
+ background for this page = appbackground
+ 
+ ---------------------- Add Contact -----------------------
+ 
+arrow forword = arrowfwd
+add layout  = add
+delete layout = edit_delete_entry
+background for this page = appbackground
+
+---------------------- Settings Page ------------------------
+
+Setting toggle button on = button_on
+Setting toggle button off = button_off
+background for this page = appbackground
+
+--------------------- Childlock Page -------------------------
+
+Set Childlock Background = bg //if you don't replace this then you have to change color with same name in colors.xml
+
+Lockdetail background = appbackground //if you don't replace this then you have to change color with same name in colors.xml
+
+-------------------- Select Transition Effect page ------------------
+
+radio button on = radiobtnon
+radio button off = radiobtnoff 
+background for this page = appbackground
+
+--------------- Speed dial Contacts -----------------
+
+Numeric Button will be used from in dialpad page.
+
+back button = backnormal
+back button hover = backhover
+
+background for this page = bg
+
+----------------- Speed Dial Apps ------------------
+
+//These Application icons used from Dialpad page
+whatsapp msg = whatsapp_speeddial 
+hike msg = hike_speeddial
+system msg = msg_speeddial
+whatsapp call = whatsapp_call_icon
+viber msg = viber_icon_png
+skype msg = skype_icon_png
+
+back button used from speed dial contacts page
+
+back button = backnormal,backhover
+background for this page = appbackground
+
+------------------- Create Homescreen shortcuts -------------------
+
+default App icon shortcut = d_call
+all contacts shortcut icon = contacts_shortcut
+Call log shortcut icon = recents_shortcut
+favourite contacts shortcut icon = fav_shortcut
+
+add shortcut button = icon_creater_add_button
+
+background for this page = appbackground
+
+-------------------- Contacts Group Shortcuts -------------------
+
+Group's Shortcut icon = group_shortcut
+
+add shortcut button = icon_creater_add_button
+
+background for this page = appbackground
+
+------------------- Screen Delay Page --------------------
+
+set button  = icon_creater_add_button

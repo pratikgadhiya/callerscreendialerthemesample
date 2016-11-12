@@ -25,9 +25,15 @@ Note:
 
    Rest all colors properties used for only color.
 
-#Note: Don't Rename anything.
+#Note: Don't Rename any file.
 If you get SDK issue then add local.properties file with your sdk location.
 
 you can monetize with ad network or paid theme.
+
+For More Detail Read 'More Details For Theme.txt'. in Root Directory
+
+Basic Naming Guideline:<br/>
+Set Your Application Name as "CSD [YourThemeName] Theme".<br/>
+Set display name in [strings.xml] as your theme name, It will appear in Caller Screen Dialer App as installed theme.<br/>
 
 Have a nice day!
