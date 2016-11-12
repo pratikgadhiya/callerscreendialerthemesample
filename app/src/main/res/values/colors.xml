@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- These colors are mandatory to put in xml -->
+    <color name="Red">#FF0000</color>
+    <color name="blue_i">#007aff</color>
+    <color name="white">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="IndianRed">#ff000000</color>
+
+    <!--// For whole app -->
+    <color name="appbackgroung">#ffffffff</color> <!-- if you don't set background image with this name then this color will be use as background -->
+    <color name="intro_color">#40b8e0</color> <!-- this color will show in introduction text -->
+
+    <!-- // All Contact Page  -->
+    <color name="allcontactstext">#000000</color> <!-- all contact title text will be in this color -->
+    <color name="backtosearch_text">#FF0000</color> <!-- color for cancel text -->
+    <color name="backtosearch_background">#c9c9ce</color> <!-- search & cancel background color -->
+    <color name="contact_name_txt">#000000</color> <!-- all contact name content this color -->
+
+    <!-- // Call Log Page -->
+    <color name="all_color">#ffffffff</color> <!-- All & Missed call hover background color -->
+    <color name="missed_call_color">#FF0000</color> <!-- All hover and Missed call background color -->
+    <color name="call_log_edit_btn_clr">#FF0000</color> <!-- All, Missed Call,Edit,Done,Clear text color -->
+    <color name="in_out_text_list">#000000</color> <!-- Incoming and Outgoing text color -->
+    <color name="miss_call_text_list">#FF0000</color> <!-- Missed Call text color -->
+
+    <!-- // Favourite Contacts Page -->
+    <color name="favourite_text">#000000</color> <!-- Favourite title text color -->
+    <color name="fav_btn_edit_or_done">#FF0000</color> <!-- Edit,Done text color -->
+    <color name="fav_name_text_color">#000000</color> <!-- Favourite number Color -->
+
+    <!-- // app shortcut popup = // Favourite contact and call log page long press screen-->
+    <color name="app_shortcut_backgroung">#80000000</color> <!-- if image not set with this name then this color will be use as background -->
+    <color name="name_number_popup_color">#FF0000</color> <!-- name and number text color -->
+
+    <!-- //Contacts Detail page -->
+    <color name="collaps_toolbar_background">#f0f5fb</color> <!-- Image/textImage Background color -->
+    <color name="detail_text_color">#FF0000</color> <!-- all detail attribute text color -->
+    <color name="detail_text_value_color">#000000</color> <!-- all detail attribute value color-->
+    <color name="text_drawable_background">#FF0000</color> <!-- text_image background color -->
+    <color name="text_drawable_text">#ffffffff</color> <!-- text_image's text color -->
+
+    <!-- //Add Contacts page -->
+    <color name="add_contact_hint">#808080</color> <!-- all hint's color in page -->
+    <color name="add_contact_field">#FF0000</color> <!-- attribute/field text color -->
+    <color name="add_contact_values">#000000</color> <!-- field value text color -->
+
+     <!--//Setting page -->
+
+    <color name="field_text_color">#000000</color> <!-- setting's all options text color -->
+    <color name="hint_color_setting">#ff666666</color> <!-- setting's all option hint color -->
+    <color name="option_color">#353535</color> <!-- option title color -->
+    <color name="title_color">#FF0000</color> <!-- setting title text color -->
+    <color name="option_heading">#FFC0CB</color> <!-- option title background color -->
+
+    <!-- //Childlock page -->
+    <color name="childlock_text_color">#000000</color> <!-- childlock title text color -->
+
+    <!-- // setting options = //settings all options' title text and other fields color -->
+    <color name="common_text_title">#FF0000</color> <!-- all options title text color -->
+    <color name="common_text_color">#000000</color> <!-- all options value/field text color -->
+
+    <!-- //Set Auto Reply page -->
+    <color name="set_sms_button_text">#ffffffff</color> <!-- Set as sms button text color -->
+
+    <!-- //More apps page -->
+    <color name="more_app_txt">#000000</color> <!-- app name text color -->
+    <color name="more_app_subtext">#ff333333</color> <!-- app's info/subtext color -->
+
+    <!-- //Incoming,out gong screen -->
+    <color name="in_out_screen_text">#ffffffff</color> <!--  name and number of caller in incoming and Outgoing Screen text color-->
+
+</resources>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CSD Heart Theme</string>
+
+    <!-- This name will Be Displayed as your theme name In Caller Screen Dialer App -->
+    <string name="display_name">Heart Theme</string>
+
+    <!-- Here are some strings that you can change in any language and this will be displayed when your theme is applied.-->
+
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~setting~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+    <string name="setting_text">Settings</string>
+    <string name="general_option_setting">GENERAL</string>
+    <string name="display_contact_by_text">Display Contacts By Lastname</string>
+    <string name="speed_dial_app_text">Speed Dial Apps</string>
+    <string name="homescreen_shortcut_text">Create Homescreen Shortcuts</string>
+    <string name="group_shortcut_text">Contact Group Shortcuts</string>
+    <string name="privacy_option_setting">PRIVACY</string>
+    <string name="beta_feature_text">BETA FEATURES</string>
+    <string name="beta_feature_option_text"> &#160; (OPTIONAL)</string>
+    <string name="auto_reply_text">Set Auto Reply</string>
+    <string name="others_option_text">OTHERS</string>
+    <string name="rate_us_text">Rate Us</string>
+    <string name="more_app_text">More App</string>
+    <string name="back_text">Back</string>
+    <string name="real_caller_id_text">Real Caller ID</string>
+    <string name="real_caller_id_subtext">Appears when it encounters unknown incoming call</string>
+    <string name="theme_text">Themes</string>
+    <string name="more_themes">More Themes</string>
+    <string name="buypro">Buy Pro Ad Free</string>
+    <string name="onoffhideid">Hide Caller ID Service</string>
+    <string name="onoffblockid">Block Caller ID Service</string>
+    <string name="onoffhideallid">Hide All Caller ID</string>
+    <string name="onoffoutgoing">Outgoing Screen Beta</string>
+    <string name="onoffincoming">Incoming Screen Beta</string>
+    <string name="notionoff">Missed Calls Management</string>
+    <string name="noti_subtext">To set as default give notification access</string>
+    <string name="simmanagement">Dual SIM Management</string>
+    <string name="speeddial">Speed Dial Setup</string>
+    <string name="effect_string">Transition Effects</string>
+    <string name="touchsound">Keypad Sound</string>
+    <string name="block_subtext">To block individual caller id go to contact detail, it triggers on incoming call</string>
+    <string name="hide_service_subtext">To hide individual caller id go to contact detail, it triggers on incoming call</string>
+    <string name="hide_all_subtext">Overrides all individual caller id config, Hide caller id screen will appear even if incoming screen beta is off</string>
+    <string name="childlockonoff">Child Lock</string>
+    <string name="outgoing_subtext_">For more info go to Read Me</string>
+    <string name="onoffcallreceived">Call Received Screen Beta</string>
+    <string name="outgoinglock">Outgoing call lock</string>
+    <string name="screendelay">Screen Delay Setup</string>
+    <string name="delay_subtext">If outgoing or incoming screens are not appearing then change this setting</string>
+    <string name="onofffullscreenid">FullScreen Photo ID</string>
+    <string name="full_screen_photo_id_subtext">Appears on incoming screen beta</string>
+    <string name="auto_reply_subtext">Set quick reply for incoming screen</string>
+    <string name="readmetext">
+    Outgoing and Incoming screens are not supposed to function fully. as it is a hack. There is no such thing in Development Kit to replace native Dialer Screen.\n\nIf you are not satisfied with it then you can turn off outgoing and incoming screens from Settings.\n\nYou can Enjoy rest of the Dialer functionality. However you can still use Private Caller ID feature on incoming call as there is no native dialer functionality involved.\n\nIf you like this app then you can buy ad free.\nThank you for your support.
+    </string>
+    <string name="readme">Read Me</string>
+
+    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~setting options~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+    <!--dual sim options-->
+    <string name="dual_sim_text">Dual SIM Management</string>
+    <string name="dualsimservice">Dual SIM Support</string>
+    <string name="alwaysask">Always Ask</string>
+    <string name="sim1">SIM 1</string>
+    <string name="sim2">SIM 2</string>
+
+    <!-- speed dial setup-->
+    <string name="empty_text">Empty</string>
+    <string name="speed_dial_setup_text">Speed Dial Setup</string>
+
+    <!--speed dial apps-->
+    <string name="whatsapp_msg_text">Whatsapp Message</string>
+    <string name="hike_text">Hike</string>
+    <string name="viber_text">Viber</string>
+    <string name="skype_text">Skype</string>
+    <string name="whatsapp_call_text">Whatsapp Call</string>
+    <string name="send_sms_text">Send SMS</string>
+    <string name="speed_dial_apps_text">Speed Dial For Apps</string>
+
+    <!--home screen shortcut-->
+    <string name="shortcut_homescreen">Create Shortcut</string>
+    <string name="default_app_icon_text">Default App Icon</string>
+    <string name="contact_shortcut_icon_text">Contact Shortcut</string>
+    <string name="call_log_shortcut_icon_text">Call Log Shortcut</string>
+    <string name="fav_shortcut_icon_text">Favourite Contacts</string>
+
+    <!--group shortcut-->
+    <string name="create_group_shortcut_text">Create Group Shortcut</string>
+
+    <!--transition effect-->
+    <string name="transition_effect_text">Select Transition Effect</string>
+    <string name="fade_in_slide">Fade Effect</string>
+    <string name="depth_slide">Depth Page Effect</string>
+    <string name="default_slide">Slide Effect</string>
+    <string name="book_effect">Book Effect</string>
+    <string name="zoom_out_effect">Zoom Out Effect</string>
+
+    <!--lockdetail-->
+    <string name="childlocknote">Passcode Screen will appear on Outgoing Call.</string>
+    <string name="vibrate_text">Vibrate</string>
+    <string name="set_passcode_text">Set Passcode</string>
+    <string name="reset_passcode_text">Reset Passcode</string>
+
+    <!--childlock-->
+    <string name="delete_text">Delete</string>
+    <string name="confirm_passcode">Confirm Passcode</string>
+    <string name="enter_current_passcode">Enter Current Passcode</string>
+    <string name="enter_passcode_to_call">Enter Passcode to call</string>
+
+    <!--screen delay-->
+    <string name="out_screen_delay_text">Outgoing Delay (min:100 max:1500)</string>
+    <string name="in_screen_delay_text">Incoming Delay (min:10 max:1000)</string>
+    <string name="note_for_delay">Note: Set and Test to meet best delay time according to your smartphone. \n\nPrivate Caller ID is also considered under incoming delay.</string>
+    <string name="screen_delay_setting_text">Screen Delay Setting</string>
+
+    <!--sms activity-->
+    <string name="edit_sms_text">Edit Sms</string>
+    <string name="sms_info_text">Set Custom Auto Reply Message</string>
+    <string name="set_as_sms_text">Set as SMS</string>
+    <string name="smsbody">I am busy now. will call you later...</string>
+
+
+    <!--real caller id-->
+    <string name="real_id_note">You can turn on either Incoming Screen Beta or Real Caller ID at same time. as both shows Real Caller ID of unknown callers.</string>
+
+
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~contacts page~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    <string name="all_contacts_text">All Contacts</string>
+    <string name="hint_search_text">Search</string>
+    <string name="cancel_text">Cancel</string>
+
+
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~call log page~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    <string name="all_text">All</string>
+    <string name="missed_call_text">Missed</string>
+    <string name="edit_text">Edit</string>
+    <string name="done_text">Done</string>
+    <string name="clear_text">Clear</string>
+    <string name="ask_persmission">Tap here to Give Notification access to clear system missed calls &amp; to set as default!</string>
+
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~favourite page~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    <string name="favorites_text">Favorites</string>
+
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~add contact page~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    <string name="name_hint_text">First Name</string>
+    <string name="lastname_hine_text">Last Name</string>
+    <string name="company_name_text">Company Name</string>
+    <string name="contact_number_hint_text">Contact Number</string>
+    <string name="email_hint_text">E-mail</string>
+    <string name="dob_hint_text">Date of Birth</string>
+    <string name="new_contact_text">New Contact</string>
+    <string name="mobile_text">Mobile</string>
+    <string name="work_text">Work</string>
+    <string name="home_text">Home</string>
+    <string name="other_text">Other</string>
+    <string name="add_more_numbers">Add Another Number</string>
+    <string name="add_more_fields">Add Another Field</string>
+    <string name="ringtone_field">Set Ringtone</string>
+    <string name="website_field">Website</string>
+    <string name="note_field">Notes</string>
+    <string name="job_title_field">Job Title</string>
+    <string name="fax_field">Fax Number</string>
+    <string name="group_field">Group</string>
+
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~contact detail page~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    <string name="email_text">Email</string>
+    <string name="birthday_text">Birthday</string>
+    <string name="ringtone_text">Ringtone</string>
+    <string name="address_text">Address</string>
+    <string name="add_to_fav">Add to Favorite</string>
+    <string name="add_to_home">Add to Homescreen</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="set_rem">Set Reminder</string>
+    <string name="reset_rem">Reset Reminder</string>
+    <string name="share_contact">Share Contact</string>
+    <string name="hide_c_id">Hide Caller ID</string>
+    <string name="unhide_c_id">Unhide Caller ID</string>
+    <string name="block_con">Block Contact</string>
+    <string name="unblock_con">Unblock Contact</string>
+
+</resources>
