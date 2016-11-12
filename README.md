@@ -23,6 +23,7 @@ Note:
    if you don't have "appbackground" named image in drawable then [#ffffffff] any color can be used as a bg color.<br/>
 
 #Note: Don't Rename anything.
+If you get SDK issue then add local.properties file with your sdk location.
 
 you can monetize with ad network or paid theme.
 
