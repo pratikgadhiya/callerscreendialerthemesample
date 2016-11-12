@@ -18,10 +18,9 @@ Note:
        &lt;color name="app_shortcut_background"&gt;#ffffffff&lt;/color&gt;
    </code>
    </pre>
-
-   Let say
-   if you have "appbackground" named image in drawable then that image will be used as background.
-   if you don't have "appbackground" named image in drawable then [#ffffffff] any color will be used as bg color.
+   For Example:<br/>
+   if you have "appbackground" named image in drawable then that image will be used as background.<br/>
+   if you don't have "appbackground" named image in drawable then [#ffffffff] any color will be used as bg color.<br/>
 
 #Note: Don't Rename anything.
 
