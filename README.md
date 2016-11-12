@@ -22,6 +22,8 @@ Note:
    if you have "appbackground" named image in drawable then that image will be used as background.<br/>
    if you don't have "appbackground" named image in drawable then [#ffffffff] any color can be used as a bg color.<br/>
 
+   Rest all colors properties used for only color.
+
 #Note: Don't Rename anything.
 If you get SDK issue then add local.properties file with your sdk location.
 
