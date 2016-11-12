@@ -11,9 +11,13 @@ App Link: http://tinyurl.com/n27sc5y
 
 Note:
    for below 3 properties:
-   <code><color name="bg">#ffffffff</color></code>
-   <code><color name="appbackground">#ffffffff</color></code>
-   <code><color name="app_shortcut_background">#ffffffff</color></code>
+   <pre>
+   <code>
+       <color name="bg">#ffffffff</color>
+       <color name="appbackground">#ffffffff</color>
+       <color name="app_shortcut_background">#ffffffff</color>
+   </code>
+   <pre>
 
    Let say
    if you have "appbackground" named image in drawable then that image will be used as background.
