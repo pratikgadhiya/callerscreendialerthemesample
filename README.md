@@ -5,9 +5,10 @@ App Link: http://tinyurl.com/n27sc5y
 
 #Steps to Make Theme=>
 
-1. Replace [drawable] Images with your theme images
-2. Replace [strings.xml] with your text. You can use any language.
-3. Replace [colors.xml] for text and background colors
+1. Package name must start with com.callerscreendialer.theme, you can append your theme name com.callerscreendialer.theme.xxxxxx
+2. Replace [drawable] Images with your theme images
+3. Replace [strings.xml] with your text. You can use any language.
+4. Replace [colors.xml] for text and background colors
 
 Note:
    for below 3 properties:
