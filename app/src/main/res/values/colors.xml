@@ -20,6 +20,7 @@
     <!-- // All Contact Page  -->
     <color name="allcontactstext">#000000</color> <!-- all contact title text will be in this color -->
     <color name="backtosearch_text">#FF0000</color> <!-- color for cancel text -->
+    <color name="hint_search_text_color">#c9c9ce</color> <!-- color for 'search' text hint -->
     <color name="backtosearch_background">#c9c9ce</color> <!-- search & cancel background color -->
     <color name="contact_name_txt">#000000</color> <!-- all contact name content this color -->
 
