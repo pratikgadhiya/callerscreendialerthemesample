@@ -1,42 +1,43 @@
 package com.callerscreendialer.theme.yourthemenamehere;
 
-import android.content.ComponentName;
-import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Toast;
+import android.widget.TextView;
+
+import com.callerscreendialer.themeclickevent.ApplyClickEvent;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button GoToCSD;
-    String CSD_PACKAGE_NAME = "com.ios.caller.screen.sprite.coc";
+    Button Apply;
+    TextView MAKE_YOUR_THEME;
+    ApplyClickEvent applyClickEvent;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        GoToCSD = (Button)findViewById(R.id.GoToCSD);
+        Apply = (Button)findViewById(R.id.GoToCSD);
+        MAKE_YOUR_THEME = (TextView)findViewById(R.id.make_theme);
+        applyClickEvent = new ApplyClickEvent(); // Must Use this class for perform Apply button and Make Theme Click Events
 
-        GoToCSD.setOnClickListener(new View.OnClickListener() {
+        Apply.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
-                try {
-                    Intent intent = new Intent();
-                    intent.setComponent(new ComponentName(CSD_PACKAGE_NAME,"com.ios.caller.screen.sprite.coc.Theme"));
-                    startActivity(intent);
-                }
-                catch (Exception e)
-                {
-                    Toast.makeText(MainActivity.this,"Caller Screen Dialer is Not Installed",Toast.LENGTH_SHORT).show();
-                    Uri uriw = Uri.parse("market://details?id=" + CSD_PACKAGE_NAME);
-                    Intent goToMarket = new Intent(Intent.ACTION_VIEW, uriw);
-                    startActivity(goToMarket);
-                }
+                applyClickEvent.ApplyClickEvent_Function(MainActivity.this);
+
+            }
+        });
+
+        MAKE_YOUR_THEME.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                applyClickEvent.MakeYourTheme_Function(MainActivity.this);
+
             }
         });
     }

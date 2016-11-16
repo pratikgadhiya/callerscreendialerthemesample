@@ -16,6 +16,9 @@ Dialpad page icon hover = keypad_s
 
 Setting page icon = voicemailsettings 
 Setting page icon hover =  voicemail_s
+
+display image for theme = screenshot1
+other screenshot images will be = screenshot2,screenshot3,screenshot4,screenshot5
 		   
 -------------- For Dialpad Page -----------------
 

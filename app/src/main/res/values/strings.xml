@@ -5,6 +5,7 @@
 
     <!-- used only for this app -->
     <string name="heart_theme">Caller Screen Dialer Heart Theme</string>
+    <string name="make_theme">Make Your Own Theme</string>
 
 
     <!-- This name will Be Displayed as your theme name In Caller Screen Dialer App -->
