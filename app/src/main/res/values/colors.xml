@@ -23,6 +23,7 @@
     <color name="hint_search_text_color">#c9c9ce</color> <!-- color for 'search' text hint -->
     <color name="backtosearch_background">#c9c9ce</color> <!-- search & cancel background color -->
     <color name="contact_name_txt">#000000</color> <!-- all contact name content this color -->
+    <color name="search_text_color">#FF0000</color> <!-- highlighted search text color -->
 
     <!-- // Call Log Page -->
     <color name="all_color">#ffffffff</color> <!-- All & Missed call hover background color -->
