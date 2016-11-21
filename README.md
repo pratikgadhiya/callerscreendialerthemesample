@@ -17,6 +17,8 @@ Note:
        &lt;color name="bg"&gt;#ffffffff&lt;/color&gt;
        &lt;color name="appbackground"&gt;#ffffffff&lt;/color&gt;
        &lt;color name="app_shortcut_background"&gt;#ffffffff&lt;/color&gt;
+       &lt;color name="receivecallbg"&gt;#ffffffff&lt;/color&gt;
+       &lt;color name="callscreenbg"&gt;#ffffffff&lt;/color&gt;
    </code>
    </pre>
    For Example:<br/>

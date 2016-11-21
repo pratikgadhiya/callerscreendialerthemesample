@@ -195,3 +195,9 @@ background for this page = appbackground
 ------------------- Screen Delay Page --------------------
 
 set button  = icon_creater_add_button
+
+------------------- incomming , Outgoing and Call reveive Screen --------------------
+
+Background for Incoming screen = receivecallbg
+Background for Outgoing / Call receive screen = callscreenbg
+

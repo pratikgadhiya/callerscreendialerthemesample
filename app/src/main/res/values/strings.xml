@@ -61,6 +61,7 @@
     Outgoing and Incoming screens are not supposed to function fully. as it is a hack. There is no such thing in Development Kit to replace native Dialer Screen.\n\nIf you are not satisfied with it then you can turn off outgoing and incoming screens from Settings.\n\nYou can Enjoy rest of the Dialer functionality. However you can still use Private Caller ID feature on incoming call as there is no native dialer functionality involved.\n\nIf you like this app then you can buy ad free.\nThank you for your support.
     </string>
     <string name="readme">Read Me</string>
+    <string name="about_us">About</string>
 
     <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~setting options~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 

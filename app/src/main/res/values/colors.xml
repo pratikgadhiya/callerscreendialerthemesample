@@ -31,6 +31,7 @@
     <color name="call_log_edit_btn_clr">#FF0000</color> <!-- All, Missed Call,Edit,Done,Clear text color -->
     <color name="in_out_text_list">#000000</color> <!-- Incoming and Outgoing text color -->
     <color name="miss_call_text_list">#FF0000</color> <!-- Missed Call text color -->
+    <color name="date_time_text">@android:color/darker_gray</color> <!-- date ande time color for favourite and call log page -->
 
     <!-- // Favourite Contacts Page -->
     <color name="favourite_text">#000000</color> <!-- Favourite title text color -->
@@ -77,5 +78,7 @@
 
     <!-- //Incoming,out gong screen -->
     <color name="in_out_screen_text">#ffffffff</color> <!--  name and number of caller in incoming and Outgoing Screen text color-->
+    <color name="receivecallbg">#000000</color> <!--  incoming screen background color -->
+    <color name="callscreenbg">#000000</color> <!--  outgoing and call receive screen background -->
 
 </resources>
