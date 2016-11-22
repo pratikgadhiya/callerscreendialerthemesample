@@ -16,6 +16,7 @@
     <color name="bg">#ffffffff</color>
     <color name="appbackground">#ffffffff</color> <!-- if you don't set background image with this name then this color will be use as background -->
     <color name="intro_color">#40b8e0</color> <!-- this color will show in introduction text -->
+    <color name="divider_color">#A9A9A9</color> <!-- divider color for whole application -->
 
     <!-- // All Contact Page  -->
     <color name="allcontactstext">#000000</color> <!-- all contact title text will be in this color -->
@@ -32,6 +33,7 @@
     <color name="in_out_text_list">#000000</color> <!-- Incoming and Outgoing text color -->
     <color name="miss_call_text_list">#FF0000</color> <!-- Missed Call text color -->
     <color name="date_time_text">@android:color/darker_gray</color> <!-- date ande time color for favourite and call log page -->
+    <color name="delete_btn_color">#FF0000</color> <!-- color for delete button also used in favourite -->
 
     <!-- // Favourite Contacts Page -->
     <color name="favourite_text">#000000</color> <!-- Favourite title text color -->
