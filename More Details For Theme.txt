@@ -180,6 +180,8 @@ all contacts shortcut icon = contacts_shortcut
 Call log shortcut icon = recents_shortcut
 favourite contacts shortcut icon = fav_shortcut
 
+this shortcut will open main activity of application (replica for application icon)= theme_icon_shortcut
+
 add shortcut button = icon_creater_add_button
 
 background for this page = appbackground
