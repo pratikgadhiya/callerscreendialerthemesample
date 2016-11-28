@@ -50,6 +50,8 @@
     <color name="detail_text_value_color">#000000</color> <!-- all detail attribute value color-->
     <color name="text_drawable_background">#FF0000</color> <!-- text_image background color -->
     <color name="text_drawable_text">#ffffffff</color> <!-- text_image's text color -->
+    <color name="tag_background_color">#ff999999</color> <!-- recent & favorite contact tag's background color -->
+    <color name="tag_text_color">#ffffffff</color> <!-- recent & favorite contact tag's text color -->
 
     <!-- //Add Contacts page -->
     <color name="add_contact_hint">#808080</color> <!-- all hint's color in page -->
