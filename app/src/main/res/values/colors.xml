@@ -59,7 +59,6 @@
     <color name="add_contact_values">#000000</color> <!-- field value text color -->
 
      <!--//Setting page -->
-
     <color name="field_text_color">#000000</color> <!-- setting's all options text color -->
     <color name="hint_color_setting">#ff666666</color> <!-- setting's all option hint color -->
     <color name="option_color">#353535</color> <!-- option title color -->
